@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Lyrics
 
 Develop an elegant React.js Music Application. 
@@ -134,3 +135,9 @@ Here we are going to focus on 2. Creating a Topical Branch:
 8. You have successfully created a pull request. Now wait for mentor approval. Once approved, you can merge the pull request.
 
 #
+=======
+# Clone-Like-Spotify
+ Spotify-2.0
+# Project is deployed on below Url
+https://spotify-v2-lyricsmint-clone.netlify.app/
+>>>>>>> 5ed3e5fcdb89b870e5fb36089bf2f18e91396c9b
